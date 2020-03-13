@@ -1,0 +1,15 @@
+button {
+  width: 50px;
+}
+.App {
+  text-align: center;
+   background-color: gray;
+   color: white;
+}
+
+.Clock {
+  display: flex;
+  padding-left: 45%;
+  text-align: center;
+  color: white;
+}
