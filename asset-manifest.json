@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qwerty/static/css/main.0e60c061.chunk.css",
+    "main.js": "/qwerty/static/js/main.2603fc60.chunk.js",
+    "main.js.map": "/qwerty/static/js/main.2603fc60.chunk.js.map",
+    "runtime-main.js": "/qwerty/static/js/runtime-main.a39fabd6.js",
+    "runtime-main.js.map": "/qwerty/static/js/runtime-main.a39fabd6.js.map",
+    "static/js/2.88b3ae30.chunk.js": "/qwerty/static/js/2.88b3ae30.chunk.js",
+    "static/js/2.88b3ae30.chunk.js.map": "/qwerty/static/js/2.88b3ae30.chunk.js.map",
+    "index.html": "/qwerty/index.html",
+    "precache-manifest.899ff8cc85639d9343ece44beca7f9c5.js": "/qwerty/precache-manifest.899ff8cc85639d9343ece44beca7f9c5.js",
+    "service-worker.js": "/qwerty/service-worker.js",
+    "static/css/main.0e60c061.chunk.css.map": "/qwerty/static/css/main.0e60c061.chunk.css.map",
+    "static/js/2.88b3ae30.chunk.js.LICENSE.txt": "/qwerty/static/js/2.88b3ae30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39fabd6.js",
+    "static/js/2.88b3ae30.chunk.js",
+    "static/css/main.0e60c061.chunk.css",
+    "static/js/main.2603fc60.chunk.js"
+  ]
+}
